@@ -54,4 +54,5 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 
 **RESULTS**
+
 The implementation of the SISO shift register in Verilog and validating their functionality was executed successfully.
